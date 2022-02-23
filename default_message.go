@@ -11,5 +11,5 @@ const (
 )
 
 var (
-	ErrorDefaultForbidden = errores.NewForbiddenf(nil, ForbiddenOperation)
+	ErrorDefaultForbidden = errores.NewForbidden(nil, ForbiddenOperation)
 )
