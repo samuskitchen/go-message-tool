@@ -1,4 +1,4 @@
-package answer
+package message_tool
 
 import "github.com/samuskitchen/go-message-tool/errors"
 
